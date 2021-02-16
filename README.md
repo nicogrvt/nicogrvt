@@ -4,13 +4,14 @@
 
 My name is Nicolas Grevet and I'm a data scientist. I'm from France, living in Paris and currently looking for a job. You can find me on [![LinkedIn][1.1]][1].
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogrvt&theme=tokyonight" />
-
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=5F89D1)
 ![](https://img.shields.io/badge/Viz-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=5F89D1)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=5F89D1)
+
+## &#x1f4c8; GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogrvt&theme=tokyonight" />
+
 
 <!-- Icons -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
