@@ -4,13 +4,12 @@ My name is Nicolas Grevet and I'm a data scientist. I'm from France, living in P
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogrvt&theme=tokyonight" />
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 <!-- Icons -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
-
 [1]: https://www.linkedin.com/in/ngrevet/
 
 <!--
