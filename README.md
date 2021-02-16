@@ -6,6 +6,8 @@ My name is Nicolas Grevet and I'm a data scientist. I'm from France, living in P
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
+## 🔧 Technologies & Tools
+
 <!-- Icons -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
