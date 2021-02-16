@@ -2,7 +2,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nicolas Grevet and I'm a data scientist. I'm from France, living in Paris and currently looking for a job. You can find me on [![LinkedIn][1.1]][1].
+My name is Nicolas Grevet and I'm a Data Scientist. I'm from Paris, France and currently looking for a job. You can find me on [![LinkedIn][1.1]][1].
+
+I have wide interests, but most of them are about Computer Science, Machine Learning, Deep Learning, Computer Vision.
 
 ```python
 #!/usr/bin/python
@@ -14,6 +16,7 @@ class DataScientist:
         self.name = "Nicolas Grevet"
         self.role = "Data Scientist"
         self.location = "Paris, France"
+        self.social-media = "LinkedIn"
         self.knowledge_base = [
             "Machine Learning",
             "Deep Learning",
@@ -25,9 +28,10 @@ class DataScientist:
         print(
             """Hello my friend, thanks for dropping by!
 
-This is {name}, I live in {location}. I work as a {role} and recently I am focusing on {focus} for my personal growth.
+My name is {name} and I'm a {role}. I'm from {location} and currently looking for a job. You can find me on {social-media}.
 
-I have wide interests, but most of them are {knowledge_base}.
+I have wide interests, but most of them are about {knowledge_base}.
+            """
 
 me = DataScientist()
 me.say_hi()
