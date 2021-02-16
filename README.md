@@ -1,5 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Nicolas Grevet and I'm a data scientist. I'm from France, living in Paris and currently looking for a job. You can find me on Linkedin.
+
+
 
 <!--
 **nicogrvt/nicogrvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
