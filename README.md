@@ -2,6 +2,7 @@
 
 My name is Nicolas Grevet and I'm a data scientist. I'm from France, living in Paris and currently looking for a job. You can find me on Linkedin.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 <!--
